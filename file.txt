@@ -2,6 +2,10 @@ hello!
 Bonjour
 modification au niveau de la branche
 test de merge sans le fast forward
+<<<<<<< HEAD
 test de merge avec confit(developpper une fonctionnalité)
 test rebase(au niveau de b)
 test rebase master
+=======
+test de merge avec confit(developpper une fonctionnalité)
+>>>>>>> d3ef1b0 (test de merge avec conflit au niveau de b)
