@@ -2,3 +2,4 @@ hello!
 Bonjour
 modification au niveau de la branche
 test de merge sans le fast forward
+test de merge avec confit(developpper une fonctionnalité)
